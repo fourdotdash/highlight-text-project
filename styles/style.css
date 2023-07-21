@@ -1,0 +1,25 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  background-color: #eeeeee;
+  color: #4d4d4d;
+  font-weight: 300;
+}
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+}
+
+.container {
+  /* display: flex;
+  flex-direction: column; */
+  text-align: center;
+  justify-content: center;
+  margin-left: 66px;
+  margin-right: 66px;
+  line-height: 19.6px;
+}
+
+@media (min-width: 48em) {
+}
