@@ -1,3 +1,3 @@
 export default {
-  base: "https://fourdotdash.github.io/highligh-text-project/",
+  base: "https://fourdotdash.github.io/highlight-text-project/",
 };
